@@ -1,0 +1,23 @@
+{
+  "name": "weatherjournalapp",
+  "version": "1.0.0",
+  "description": "My weather app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fhameed1981/WeatherApp.git"
+  },
+  "keywords": [
+    "WeatherApp"
+  ],
+  "author": "Fahad Hameed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fhameed1981/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/fhameed1981/WeatherApp#readme"
+}
